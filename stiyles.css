@@ -1,0 +1,60 @@
+header img{
+    width: 91px;
+    height: 26px;
+    position: absolute;
+    top: 32px;
+    left: 88px;
+    margin-right: 12px;
+}
+
+.menu{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    height: 90px;
+}
+
+.secion1{
+    text-align: center;
+    column-count: auto;
+}
+
+
+button{
+    width: 251px;
+    height: 56px;
+    display: block;
+    margin: 1.5rem auto;
+    padding: 16px;
+    background-color: #285e67;
+    color: white;
+    border: none;
+    border-radius: 67px;
+    font-size: 1rem;
+    
+}
+
+
+.section2{
+    text-align: left;
+}
+
+.hoja img{
+    width: 50px;
+    height: auto;
+    object-fit: cover;
+}
+
+.section2 img{
+    float: left;
+}
+
+
+footer{
+    background-color: #285e67;
+}
+
+.red{
+    gap: 20px;
+    height: 60px;
+}
